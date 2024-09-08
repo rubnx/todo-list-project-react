@@ -18,7 +18,7 @@ function Header() {
   return (
     <div className='header'>
       <h1>
-        <span>☑️</span> Stuff To Do
+        <span>✅</span> Stuff To Do
       </h1>
     </div>
   );
